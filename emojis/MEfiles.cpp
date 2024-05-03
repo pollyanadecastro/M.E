@@ -1,6 +1,6 @@
 #include <iostream>
 #include <bitset>
-#include "emoji.h"
+#include "emojis/emoji.h"
 using namespace std;
 
 int main() {
